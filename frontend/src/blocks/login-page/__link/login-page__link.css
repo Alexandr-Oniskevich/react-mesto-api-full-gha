@@ -1,0 +1,8 @@
+.login-page__link{
+  text-decoration: none;
+  color: #fff;
+}
+
+.login-page__link:hover{
+  opacity: 0.6;
+}

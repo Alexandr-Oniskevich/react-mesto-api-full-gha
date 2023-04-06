@@ -1,0 +1,8 @@
+.popup__form-edit {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}

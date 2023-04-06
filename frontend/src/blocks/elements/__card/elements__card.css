@@ -1,0 +1,7 @@
+.elements__card {
+  max-width: 282px;
+  height: 362px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}

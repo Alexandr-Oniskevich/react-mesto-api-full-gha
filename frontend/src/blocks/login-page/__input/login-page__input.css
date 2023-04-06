@@ -1,0 +1,10 @@
+.login-page__input{
+  margin: 0 0 25px 0;
+  padding: 0 0 10px 0;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid rgba(204, 204, 204, 1);
+  box-sizing: border-box;
+  background-color: transparent;
+  color: #fff;
+}
